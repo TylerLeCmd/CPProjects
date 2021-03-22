@@ -1,9 +1,12 @@
-## Welcome to CPProjects
+# Welcome to CPProjects
 
-### Processing Projects
+## Processing Projects
 
-# SpaceGame
+### SpaceGame
 
+An OOP Space shooter game made in Processing Winter 2020
+
+### Most Recent Typing Test
 ![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/fullscreen.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/TylerLeCmd/CPProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
