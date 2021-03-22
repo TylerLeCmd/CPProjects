@@ -13,6 +13,10 @@ You can use the [editor on GitHub](https://github.com/TylerLeCmd/CPProjects/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Tiller on Twitch
+
+Tyler is on [Twitch](https://twitch.tv/tillerlis/) !
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
