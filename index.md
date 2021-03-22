@@ -2,7 +2,7 @@
 
 ### Processing Projects
 
-#SpaceGame
+# SpaceGame
 
 ![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/fullscreen.png?raw=true)
 
