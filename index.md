@@ -10,7 +10,7 @@ A screensaver mock made in Processing. Winter 2020
 
 A mock version of Bullet Hell with asteroids, Asteroid Hell.
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
-![Screen Saver](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screen%20Shot%202021-03-22%20at%201.18.57%20PM.png?raw=true)
+![Screen Saver](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/spacegame.png?raw=true)
 
 ### Most Recent Typing Test
 ![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/fullscreen.png?raw=true)
