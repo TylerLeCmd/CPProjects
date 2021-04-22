@@ -12,7 +12,12 @@ A screensaver mock made in Processing. Winter 2020
 A mock version of Bullet Hell with asteroids, Asteroid Hell.
 
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
-![Screen Saver](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/spacegame.png?raw=true)
+![SpaceGame](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/spacegame.png?raw=true)
+
+A mockingly mocked calculator. 
+
+[Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
+![Calculator](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screen%20Shot%202021-04-22%20at%201.29.56%20PM.png?raw=true)
 
 ### Most Recent Typing Test
 ![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screenshot%202021-04-21%20211542.png?raw=true)
@@ -24,4 +29,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Tiller on Twitch
 
 Tyler is on [Twitch](https://twitch.tv/tillerlis/) !
+Check out Siimon111 on [Twitch](https://Siimon111/) !
 
