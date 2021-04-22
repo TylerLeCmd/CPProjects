@@ -15,7 +15,7 @@ A mock version of Bullet Hell with asteroids, Asteroid Hell.
 ![Screen Saver](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/spacegame.png?raw=true)
 
 ### Most Recent Typing Test
-![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/fullscreen.png?raw=true)
+![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screenshot%202021-04-21%20211542.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/TylerLeCmd/CPProjects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
