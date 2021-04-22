@@ -24,6 +24,11 @@ A Riot Points to USD Converter, used to mock addicted League of Legends players.
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
 ![Converter](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screen%20Shot%202021-04-22%20at%201.50.58%20PM.png?raw=true)
 
+A mock Etch-A-Sketch
+
+[Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
+![Converter](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/line-000323.png?raw=true)
+
 ### Most Recent Typing Test
 ![Typing_Tests](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screenshot%202021-04-21%20211542.png?raw=true)
 
