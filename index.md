@@ -3,6 +3,7 @@
 ## Processing Projects
 by Tyler Le
 [Email](https://tylervlogs.tl@gmail.com)
+Certfications: 1st Semester Certification Test
 
 ### Screensaver
 
