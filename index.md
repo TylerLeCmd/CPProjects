@@ -9,28 +9,28 @@ A screensaver mock made in Processing. Winter 2020
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
 ![Screen Saver](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screen%20Shot%202021-03-22%20at%201.18.57%20PM.png?raw=true)
 
-###Roger Dodger
+### Roger Dodger
 
 A mock version of Bullet Hell with asteroids, Asteroid Hell.
 
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
 ![SpaceGame](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/spacegame.png?raw=true)
 
-###"Calculator"
+### "Calculator"
 
 A mockingly mocked calculator. 
 
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
 ![Calculator](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screen%20Shot%202021-04-22%20at%201.29.56%20PM.png?raw=true)
 
-###RP Converter
+### RP Converter
 
 A Riot Points to USD Converter, used to mock addicted League of Legends players. 
 
 [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/SRC)
 ![Converter](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/images/Screen%20Shot%202021-04-22%20at%201.50.58%20PM.png?raw=true)
 
-###Etch-A-Sketch
+### Etch-A-Sketch
 
 A mock Etch-A-Sketch
 
