@@ -1,6 +1,8 @@
 # Welcome to CPProjects
 
 ## Processing Projects
+by Tyler Le
+[Email](https://tylervlogs.tl@gmail.com)
 
 ### Screensaver
 
