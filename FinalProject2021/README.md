@@ -5,6 +5,6 @@ A Gatcha game mixed with a Cookie Clicker game created within the JavaScript env
 
 Members:
 
-Edison Tran - Project Director and Code
+Edison Tran - Graphic Designer - Project Director - Code
 
-Tyler Le - Graphic Design and Code
+Tyler Le - Graphic Designer - Code
