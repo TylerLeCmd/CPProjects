@@ -1,7 +1,12 @@
-Gatcha Cookie Clicker
+Clicker Game
 
+A clicker game where one clicks to reach a goal, leading to them earning a sort of currancy.
+Currancy used in a shop? Or possible gatcha tab?
+Will be given a weapon of a random tier? 
+Or buy a weapon of a certain tier.
+Weapon will provide extra clicker power.
+The goal will increase arithemitcally.
 
-A Gatcha game mixed with a Cookie Clicker game created within the JavaScript environment
 
 Members:
 
