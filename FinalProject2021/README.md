@@ -14,4 +14,8 @@ Edison Tran - Graphic Designer - Project Director - Code
 
 Tyler Le - Graphic Designer - Code
 
+Concepts:
+
 ![Concept1](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/FinalProject2021/images/game2021/concept1.png?raw=true)
+
+![Concept2](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/FinalProject2021/images/game2021/concept2.png?raw=true)
