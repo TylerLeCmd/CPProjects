@@ -7,6 +7,7 @@ Or buy a weapon of a certain tier.
 Weapon will provide extra clicker power.
 The goal will increase arithemitcally.
 
+Okay, here is the actual link to the [Source](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/FinalProject2021)
 
 Members:
 
