@@ -11,7 +11,7 @@ Certfications: 1st Semester Certification Test
 
 This game was made in p5.js code. It is a clicker game mixed with a weapon-upgrades element
 
-<script src="https://TylerLeCmd.github.io/CPProjects/FinalProject2021/[filename].js"></script>
+Run it here : [Link](https://tylerlecmd.github.io/CPProjects/FinalProject2021/test2/)
 
 ### Screensaver
 
