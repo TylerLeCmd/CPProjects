@@ -7,9 +7,11 @@ by Tyler Le
 
 Certfications: 1st Semester Certification Test
 
-##Click Fest: The Sword Fighting Clicker Game
+## Click Fest: The Sword Fighting Clicker Game
 
 This game was made in p5.js code. It is a clicker game mixed with a weapon-upgrades element
+
+
 
 Run it here : [Link](https://tylerlecmd.github.io/CPProjects/FinalProject2021/test2/)
 
