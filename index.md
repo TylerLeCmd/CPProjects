@@ -11,7 +11,13 @@ Certfications: 1st Semester Certification Test
 
 This game was made in p5.js code. It is a clicker game mixed with a weapon-upgrades element
 
+![katana](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/FinalProject2021/images/game2021/kataan.png?raw=true)
 
+![dagger](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/FinalProject2021/images/game2021/dager.png?raw=true)
+
+![ruby](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/FinalProject2021/images/game2021/redthing.png?raw=true)
+
+![sapph](https://github.com/TylerLeCmd/CPProjects/blob/gh-pages/FinalProject2021/images/game2021/shine.png?raw=true)
 
 Run it here : [Link](https://tylerlecmd.github.io/CPProjects/FinalProject2021/test2/)
 
