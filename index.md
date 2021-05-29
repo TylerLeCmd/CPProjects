@@ -25,6 +25,8 @@ This game was made in p5.js code. It is a clicker game mixed with a weapon-upgra
 
 Run it here : [Link](https://tylerlecmd.github.io/CPProjects/FinalProject2021/test2/)
 
+Source Code : [Source](https://tylerlecmd.github.io/CPProjects/FinalProject2021/)
+
 ### Screensaver
 
 A screensaver mock made in Processing. Winter 2020
